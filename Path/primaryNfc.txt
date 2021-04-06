@@ -4,5 +4,5 @@ android.app.extra.PROVISIONING_TIME_ZONE=America/New_York
 android.app.extra.PROVISIONING_WIFI_SSID=ASR-ext
 android.app.extra.PROVISIONING_WIFI_SECURITY_TYPE=WPA
 android.app.extra.PROVISIONING_WIFI_PASSWORD=rogl6z3w8
-android.app.extra.PROVISIONING_RESET_PROTECTION_PARAMETERS=true
-android.app.extra.PROVISIONING_SKIP_ENCRYPTION=true
+android.app.extra.PROVISIONING_RESET_PROTECTION_PARAMETERS=false
+android.app.extra.PROVISIONING_SKIP_ENCRYPTION=false
