@@ -1,3 +1,3 @@
 This file will replace LearningDocument.rtf
-Create new lines
+Create new lines -- it is needed
 This line should remain in the "isolated" branch only.
