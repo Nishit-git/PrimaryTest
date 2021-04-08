@@ -1,8 +1,3 @@
 This file will replace LearningDocument.rtf
-<<<<<<< HEAD
-Create new lines
-This line should remain in the "feature" branch only.
-=======
 Create new lines -- it is needed for some rework
 This line should remain in the "isolated" branch only.
->>>>>>> isolated
