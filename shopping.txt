@@ -6,3 +6,5 @@ oranges
 cheddar cheese
 12 eggs
 Limes
+Lettuce
+Cherry tomatoes
