@@ -1,8 +1,9 @@
 android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_DOWNLOAD_LOCATION=https://docs.google.com/uc?export=download&id=1YDJUoiSKNKQTYaPcAJRHt7av2yuPBbyI
-android.app.extra.PROVISIONING_LOCALE=en_US
-android.app.extra.PROVISIONING_TIME_ZONE=America/NORTH_YORK
+android.app.extra.PROVISIONING_LOCALE=en_CA
+android.app.extra.PROVISIONING_TIME_ZONE=America/NORTH_Toronto
 android.app.extra.PROVISIONING_WIFI_SSID=ASR-ext
 android.app.extra.PROVISIONING_WIFI_SECURITY_TYPE=WPA2
 android.app.extra.PROVISIONING_WIFI_PASSWORD=rogl6z3w8
 android.app.extra.PROVISIONING_RESET_PROTECTION_PARAMETERS=true
 android.app.extra.PROVISIONING_SKIP_ENCRYPTION=true
+android.app.extra.PROVISIONING_SKIP_ENCRYPTION=false
